@@ -22,3 +22,5 @@ Once Lunar Lander environment is installed based on the instructions here: https
 
 * Deploy_LunarLander.py which deploys Lunar Lander using the selected algorithm’s previous trained policy.
 * Train_LunarLander.py to keep training the selected algorithm’s previous trained policy or start a new trainning from scratch using the selected algorithm.
+
+The content is part of the Reinforcement Learning course of the Master in Computer Science program at Computer Research Center of the Mexican National Polytechnic Institute. 
