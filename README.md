@@ -4,7 +4,7 @@ This repository contains a scholar project of Reinforcement Learning subject. Th
 
 Luna lander is an environment proved by Open AI Gym. The source code of this environment can be found here: https://gym.openai.com/envs/LunarLander-v2/
 
-![Lunar Lander](https://github.com/EliuthLoga/RL/blob/master/lunar_lander_project/img/LunarLander.png)
+![Lunar Lander](https://github.com/EliuthLoga/ReinforcementLearning/blob/master/lunar_lander_project/img/LunarLander.png)
 
 
 More information about how to install Open AI Gym environments can be found here: https://gym.openai.com
